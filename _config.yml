@@ -85,7 +85,7 @@ author:
   bio              : "PhD Student and graduate research assistant at Clarkson University"
   location         : "Potsdam, NY"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -95,12 +95,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : # "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "www.linkedin.com/in/kevin-mack-81527b126"
+  linkedin         : https://www.linkedin.com/in/kevin-mack-81527b126
   orcid            :
   pinterest        :
   soundcloud       :
