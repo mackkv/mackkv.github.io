@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -31,6 +31,19 @@ Programming and Software Knowledge
 * Linux (various flavors), Widnows, Mac OSx
 * LaTeX, Microsoft Word and Excel, Android Studio, Arduino, Git (and GitLab),
 VirtualBox, Teamviewer
+
+Graduate Course Load (Clarkson University)
+======
+*Digital Signal Processing (EE401/501)
+*Electronic Device IC Sim (EE441/541)
+*Coding and Information Transmission (EE470/570)
+*Computer Vision (CS652)
+*Stochastic Processes in Engineering (EE529)
+*Pattern Recognition and Neural Networks (EE574)
+*Adaptive Signal Processing (EE628)
+*Data Analysis of Complex Systems (EE520)
+*Detecition and Estimation Theory (EE528)
+*Bayestian Data Analysis (STAT585)
 
 Publications
 ======
