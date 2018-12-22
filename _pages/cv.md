@@ -29,7 +29,7 @@ Programming and Software Knowledge
 ======
 * MATLAB, R, Python, C/C++, Assembly, Java, 
 * Linux (various flavors), Widnows, Mac OSx
-* LaTeX, Microsoft Word and Excel, Android Studio, Arduino
+* LaTeX, Microsoft Word and Excel, Android Studio, Arduino, Git (and GitLab), 
 
 Publications
 ======
