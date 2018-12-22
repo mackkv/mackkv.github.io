@@ -11,30 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering, Clarkson University, 2016
+* M.S. in Electrical Engineering, Clarkson University University, 2018
 
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Clarkson University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2016: Teaching Assistant
+  * Clarkson University
+
+* Spring 2017-Present: Research Assistant
+  * Clarkson University
   
-Skills
+Programming and Software Knowledge
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* MATLAB, R, Python, C/C++, Assembly, Java, 
+* Linux (various flavors), Widnows, Mac OSx
+* LaTeX, Microsoft Word and Excel, Android Studio, Arduino
 
 Publications
 ======
@@ -53,7 +48,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
