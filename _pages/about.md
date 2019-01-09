@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student and research assisstant in the <a href="https://cosine.clarkson.edu/">CoSiNe Lab</a> Clarkson University. My focus is on various topics in Signal Processing and Communications. I have also worked on engineering education projects, with a focus on using mobile apps as tools for learning. 
+I am a PhD student and research assisstant in the <a href="https://cosine.clarkson.edu/">CoSiNe Lab</a> at Clarkson University. My focus is on various topics in Signal Processing and Communications. I have also worked on engineering education projects, with a focus on using mobile apps as tools for learning. 
