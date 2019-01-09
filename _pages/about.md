@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page.
+I am a PhD student and research assisstant at Clarkson University in the <a href="https://cosine.clarkson.edu/">CoSiNe Lab</a>. 
