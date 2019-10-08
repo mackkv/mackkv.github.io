@@ -17,5 +17,5 @@ Some Quick Examples of My Work
 .gif of kmeans algorithm converging to its final solution. The kmeans algorithm is a popularly used machine learning method.
 ![kmeans](files/kmeans_gif.gif)
 
-.gif of a GUI made with PyQt. Used for viewing data from a time-of-flight (ToF) camera. Receives data over tcp connection, displays in the GUI. Some useful controls for the ToF camera are present from the GUI. This project can be found here: https://github.com/mackkv/CaptureGUI
+.gif of a GUI made with PyQt. Used for viewing data from a time-of-flight (ToF) camera. Receives data over tcp connection, displays in the GUI. Some useful controls for the ToF camera are present from the GUI. This project can be found <a href="https://github.com/mackkv/CaptureGUI">here.</a>
 ![gui](files/gui_gif.gif)
