@@ -124,7 +124,7 @@ be included are parameter estimation, model selection, time series
 and error analysis. 
 
 * Neuromorphic Computing (EE701)  
-Course Description: 
+Course Description: Neuromorphic Computing was originally referred to as the hardware that mimics neuro-biological architectures, and was then extended to the computing systems that can run bio-inspired computing models such as neural networks and deep learning networks. In this course, students will learn the basic knowledge of artificial neural networks and the advanced hardware architectures/systems for efficient neural network computing. We will emphasize both the basic knowledge and practical tricks through a series of hand-on practices including paper readings and projects.
 
 * Deep Learning (CS570)  
 Course Description: This course will cover the principles of modern deep learning architectures from a theoretical and practical perspective.  Course topics covered will include an introduction to machine learning and basic neural network architectures, and in-depth discussions on convolutional neural networks, recurrent neural networks based on units such as LSTMs and GRUs, and, if time permits, GANs.  Students will be required to implement programming assignments and projects that apply deep learning architectures to solve classification and regression problems.  Students will read and assess papers on current evolutions to these architectures. Graduate students will do additional work.
