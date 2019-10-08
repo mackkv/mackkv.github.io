@@ -2,7 +2,7 @@
 title: "Localization using wireless signals"
 collection: publications
 permalink: /publication/localization_patent
-date: 2017-10-18
+date: 2018-10-30
 venue: 'US Patent'
 paperurl: 'https://patents.google.com/patent/US20170223498A1/en'
 ---
