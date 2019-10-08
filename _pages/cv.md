@@ -41,7 +41,7 @@ filters, windows. Design of nonrecursive filters, recursive filters.
 Correlation and spectra of random signals, spectral estimation.
 
 * Electronic Device IC Sim (EE441/541)  
-Course Description:Study of modern electronic devices, p-n junctions, bipolor junction
+Course Description: Study of modern electronic devices, p-n junctions, bipolor junction
 transistors (BJTs) and metal-oxide-semiconductor field-effect
 transistors (MOSFETs), for integrated circuit applications. SPICE
 device models are introduced, and several SPICE simulation projects
@@ -68,7 +68,16 @@ stereopsis), mid-level vision (segmentation, object tracking), highlevel vision 
 and applications (medical image analysis, image-based rendering).
 
 * Stochastic Processes in Engineering (EE529)  
-Course Description:
+Course Description: Review of the theory of probability. Single
+and multiple random variables topics, such as distributions,
+moments, conditioning, central limit theorem, and Laws of Large
+Numbers. Stochastic processes. Stationary and nonstationary
+processes. Time averaging and ergodicity. Correlation and power
+spectrum. Langevin's equation and Markov processes. Poisson and
+Gaussian processes. Response of linear systems. Approximate
+methods for analysis of nonlinear stochastic equations Application
+to engineering problems, such as random vibrations, turbulence,
+estimation theory, signal detection, and others. 
 
 * Pattern Recognition and Neural Networks (EE574)  
 Course Description: Bayes decision theory, discriminant functions and decision surfaces.
@@ -81,7 +90,7 @@ size. Hopfield networks for autoassociative memory, unsupervised
 and self-organizing networks.
 
 * Adaptive Signal Processing (EE628)  
-Course Description:An introduction to adaptive signal processing. Topics include;
+Course Description: An introduction to adaptive signal processing. Topics include;
 Applications of adaptive systems, adaptive linear combiner, Wiener
 least-squares solution, gradient search, the LMS/RLS algorithms,
 block time/frequency domain LMS, system identification.
