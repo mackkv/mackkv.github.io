@@ -14,7 +14,7 @@ Education
 * B.S. in Electrical Engineering, Clarkson University, 2016
 * M.S. in Electrical Engineering, Clarkson University, 2018
 
-Work experience
+Work Experience
 ======
 * Summer 2015: Research Assistant
   * Clarkson University
@@ -124,7 +124,7 @@ be included are parameter estimation, model selection, time series
 and error analysis. 
 
 * Neuromorphic Computing (EE701)  
-Course Description:
+Course Description: 
 
 * Deep Learning (CS570)  
 Course Description: This course will cover the principles of modern deep learning architectures from a theoretical and practical perspective.  Course topics covered will include an introduction to machine learning and basic neural network architectures, and in-depth discussions on convolutional neural networks, recurrent neural networks based on units such as LSTMs and GRUs, and, if time permits, GANs.  Students will be required to implement programming assignments and projects that apply deep learning architectures to solve classification and regression problems.  Students will read and assess papers on current evolutions to these architectures. Graduate students will do additional work.
