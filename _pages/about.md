@@ -8,6 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student and research assisstant in the <a href="https://cosine.clarkson.edu/">CoSiNe Lab</a> at Clarkson University. My focus is on various topics in Signal Processing and Communications. I have also worked on engineering education projects, with a focus on using mobile apps as tools for learning. This site is still a work in progress, and is being updated incrimentally to include projects that I have worked on, and works that can be found publicly.
+I am a PhD student and research assisstant in the <a href="https://cosine.clarkson.edu/">CoSiNe Lab</a> at Clarkson University. My focus is on various topics in Machine Learning, Signal Processing, and Communications. I have also worked on engineering education projects, with a focus on using mobile apps as tools for learning. This site is still a work in progress, and is being updated incrimentally to include projects that I have worked on, and works that can be found publicly.
 
+
+
+======
+
+.gif of kmeans algorithm converging to its final solution.
 ![kmeans](files/kmeans_gif.gif)
+
+.gif of a GUI made with PyQt. Used for viewing data from a time-of-flight (ToF) camera. Receives data over tcp connection, displays in the GUI. Some useful controls for the ToF camera are present from the GUI.
+![gui](files/gui_gif.gif)
