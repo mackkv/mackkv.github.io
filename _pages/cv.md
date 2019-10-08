@@ -123,7 +123,7 @@ economics, signal processing and machine learning. Topics that will
 be included are parameter estimation, model selection, time series
 and error analysis. 
 
-### Neuromorphic Computing (EE701)  
+### Neuromorphic Computing (EE503)  
 Course Description: Neuromorphic Computing was originally referred to as the hardware that mimics neuro-biological architectures, and was then extended to the computing systems that can run bio-inspired computing models such as neural networks and deep learning networks. In this course, students will learn the basic knowledge of artificial neural networks and the advanced hardware architectures/systems for efficient neural network computing. We will emphasize both the basic knowledge and practical tricks through a series of hand-on practices including paper readings and projects.
 
 ### Deep Learning (CS570)  
