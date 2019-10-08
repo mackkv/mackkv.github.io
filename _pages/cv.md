@@ -28,9 +28,8 @@ Work experience
 Programming and Software Knowledge
 ======
 * MATLAB, R, Python, C/C++, Assembly, Java, 
-* Linux (various flavors), Widnows, Mac OSx
-* LaTeX, Microsoft Word and Excel, Android Studio, Arduino, Git (and GitLab),
-VirtualBox, Teamviewer
+* Linux (various flavors), Windows, Mac OSx
+* LaTeX, Jupyter Notebook & Jupyter Lab, Spyder,  Qt5 and PyQt5, Microsoft Word and Excel, Android Studio, Arduino, Git (and GitLab), VirtualBox, Teamviewer
 
 Graduate Course Load (Clarkson University)
 ======
@@ -42,8 +41,10 @@ Graduate Course Load (Clarkson University)
 * Pattern Recognition and Neural Networks (EE574)
 * Adaptive Signal Processing (EE628)
 * Data Analysis of Complex Systems (EE520)
-* Detecition and Estimation Theory (EE528)
-* Bayestian Data Analysis (STAT585)
+* Detection and Estimation Theory (EE528)
+* Bayesian Data Analysis (STAT585)
+* Neuromorphic Computing (EE701)
+* Deep Learning (CS570)
 
 Publications
 ======
