@@ -40,7 +40,7 @@ sampling theory. Smoothing, interpolation, D/A conversion. Digital
 filters, windows. Design of nonrecursive filters, recursive filters.
 Correlation and spectra of random signals, spectral estimation.
 
-* Electronic Device IC Sim (EE441/541)  
+###Electronic Device IC Sim (EE441/541)  
 Course Description: Study of modern electronic devices, p-n junctions, bipolor junction
 transistors (BJTs) and metal-oxide-semiconductor field-effect
 transistors (MOSFETs), for integrated circuit applications. SPICE
