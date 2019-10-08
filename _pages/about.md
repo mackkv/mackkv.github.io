@@ -11,7 +11,7 @@ redirect_from:
 I am a PhD student and research assisstant in the <a href="https://cosine.clarkson.edu/">CoSiNe Lab</a> at Clarkson University. My focus is on various topics in Machine Learning, Signal Processing, and Communications. I have also worked on engineering education projects, with a focus on using mobile apps as tools for learning. This site is still a work in progress, and is being updated incrimentally to include projects that I have worked on, and works that can be found publicly.
 
 
-Some Quick Examples of My Work
+Some Quick Examples of My Interests and Work
 ======
 
 .gif of kmeans algorithm converging to its final solution. The kmeans algorithm is a popularly used machine learning method.
