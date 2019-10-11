@@ -26,7 +26,7 @@ redirect_from:
 ## Programming and Software Knowledge
 * Python, MATLAB, C/C++ 
 * Linux (various flavors, mostly debian based distros), Windows, Mac OSx
-* \LaTeX, Jupyter Notebook & Jupyter Lab, Spyder,  Qt5 and PyQt5, Microsoft Word and Excel, Android Studio, Arduino, Git (and GitLab), VirtualBox, Teamviewer
+* $\LaTeX$, Jupyter Notebook & Jupyter Lab, Spyder,  Qt5 and PyQt5, Microsoft Word and Excel, Android Studio, Arduino, Git (and GitLab), VirtualBox, Teamviewer
 
 ## Graduate Course Load (Clarkson University)
 ### Digital Signal Processing (EE401/501)  
