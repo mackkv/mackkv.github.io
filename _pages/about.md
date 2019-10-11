@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kevin Mack: Research Assistant in CoSiNe Lab at Clarkson University"
+title: "Kevin Mack: Ph.D. Student, Research Assistant"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
