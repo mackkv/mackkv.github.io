@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * B.S. in Electrical Engineering, Clarkson University, 2016
 * M.S. in Electrical Engineering, Clarkson University, 2018
 
-Work Experience
+## Work Experience
 ======
 * Summer 2015: Research Assistant
   * Clarkson University
@@ -25,13 +25,13 @@ Work Experience
 * Spring 2017-Present: Research Assistant
   * Clarkson University
   
-Programming and Software Knowledge
+## Programming and Software Knowledge
 ======
 * Python, MATLAB, C/C++ 
 * Linux (various flavors, mostly debian based distros), Windows, Mac OSx
 * LaTeX, Jupyter Notebook & Jupyter Lab, Spyder,  Qt5 and PyQt5, Microsoft Word and Excel, Android Studio, Arduino, Git (and GitLab), VirtualBox, Teamviewer
 
-Graduate Course Load (Clarkson University)
+## Graduate Course Load (Clarkson University)
 ======
 ### Digital Signal Processing (EE401/501)  
 Course Description: An introduction to discrete-time signal processing. Topics include: A
@@ -129,19 +129,19 @@ Course Description: Neuromorphic Computing was originally referred to as the har
 ### Deep Learning (CS570)  
 Course Description: This course will cover the principles of modern deep learning architectures from a theoretical and practical perspective.  Course topics covered will include an introduction to machine learning and basic neural network architectures, and in-depth discussions on convolutional neural networks, recurrent neural networks based on units such as LSTMs and GRUs, and, if time permits, GANs.  Students will be required to implement programming assignments and projects that apply deep learning architectures to solve classification and regression problems.  Students will read and assess papers on current evolutions to these architectures. Graduate students will do additional work.
 
-Publications
+## Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+## Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+## Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
