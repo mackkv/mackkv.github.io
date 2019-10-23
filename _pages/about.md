@@ -20,4 +20,5 @@ Some quick examples of my interests and work
 .gif of a GUI made with PyQt. Used for viewing data from a time-of-flight (ToF) camera. Receives data over tcp connection, displays in the GUI. Some useful controls for the ToF camera are present from the GUI. This project can be found <a href="https://github.com/mackkv/CaptureGUI">here.</a>
 ![gui](files/gui_gif.gif)
 
+.gif of the output from a semantic segmentation neural network. The network was trained on the <a href="https://www.cityscapes-dataset.com/">cityscapes dataset</a>, and was an implementation of known neural network structures that work well for this problem. This work served as my project Neuromorphic Computing course.
 ![dashcam](files/potsdam_dashcam.gif)
