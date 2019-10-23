@@ -19,3 +19,5 @@ Some quick examples of my interests and work
 
 .gif of a GUI made with PyQt. Used for viewing data from a time-of-flight (ToF) camera. Receives data over tcp connection, displays in the GUI. Some useful controls for the ToF camera are present from the GUI. This project can be found <a href="https://github.com/mackkv/CaptureGUI">here.</a>
 ![gui](files/gui_gif.gif)
+
+![dashcam](files/potsdam_dashcam.gif)
