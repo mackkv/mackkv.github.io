@@ -13,9 +13,8 @@ I'm a graduate studentin and research assisstant in the <a href="https://cosine.
 
 Some quick examples of my interests and work
 ======
-
-.gif of kmeans algorithm converging to its final solution. The kmeans algorithm is a popularly used machine learning method.
-![kmeans](files/kmeans_gif.gif)
+This poster is from some of my most recent work with underwater LiDAR. The project uses a time-of-flight (ToF) camera, which has been modified, to perform optical sensing and target detection in the underwater environment. This technology has the potential to be highly useful for target detection, due to its inherent high resolution sensing and it's ability to determine absolute size of the object in question.
+![oceans19spc](files/OCEANS_poster_2019.pdf)
 
 .gif of a GUI made with PyQt. Used for viewing data from a time-of-flight (ToF) camera. Receives data over tcp connection, displays in the GUI. Some useful controls for the ToF camera are present from the GUI. This project can be found <a href="https://github.com/mackkv/CaptureGUI">here.</a>
 ![gui](files/gui_gif.gif)
