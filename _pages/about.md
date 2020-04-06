@@ -14,11 +14,12 @@ I'm a graduate studentin and research assisstant in the <a href="https://sites.g
 Some quick examples of my interests and work
 ======
 This poster is from some of my most recent work with underwater LiDAR. The project uses a time-of-flight (ToF) camera, which has been modified, to perform optical sensing and target detection in the underwater environment. This technology has the potential to be highly useful for target detection, due to its inherent high resolution sensing and it's ability to determine absolute size of the object in question.
-<embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=mackkv.github.io/files/OCEANS_2019_poster.pdf" width="500" height="375">
+
+<iframe src="http://docs.google.com/gview?url=mackkv.github.io/files/OCEANS_2019_poster.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
 
 .gif of a GUI made with PyQt. Used for viewing data from a time-of-flight (ToF) camera. Receives data over tcp connection, displays in the GUI. Some useful controls for the ToF camera are present from the GUI. This project can be found <a href="https://github.com/mackkv/CaptureGUI">here.</a>
 ![gui](files/gui_gif.gif)
 
 .gif of the output from a semantic segmentation neural network. The colors represent segments of the image that belong to certain class of objects. The .gif shows the raw input data, the pixel classification, and the overlay for two slightly different settings. The network was trained on the <a href="https://www.cityscapes-dataset.com/">cityscapes dataset</a>, and was an implementation of known neural network structures that work well for this problem. The test data was recorded from my own dashcam. This work served as my project for my Neuromorphic Computing course.
 ![dashcam](files/potsdam_dashcam.gif)
+ 
