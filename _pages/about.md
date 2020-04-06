@@ -14,7 +14,11 @@ I'm a graduate studentin and research assisstant in the <a href="https://cosine.
 Some quick examples of my interests and work
 ======
 This poster is from some of my most recent work with underwater LiDAR. The project uses a time-of-flight (ToF) camera, which has been modified, to perform optical sensing and target detection in the underwater environment. This technology has the potential to be highly useful for target detection, due to its inherent high resolution sensing and it's ability to determine absolute size of the object in question.
-![oceans19spc](files/OCEANS_poster_2019.pdf)
+<object data="http://mackkv.github.io/files/OCEANS_2019_poster.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://mackkv.github.io/files/OCEANS_2019_poster.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://mackkv.github.io/files/OCEANS_2019_poster.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 .gif of a GUI made with PyQt. Used for viewing data from a time-of-flight (ToF) camera. Receives data over tcp connection, displays in the GUI. Some useful controls for the ToF camera are present from the GUI. This project can be found <a href="https://github.com/mackkv/CaptureGUI">here.</a>
 ![gui](files/gui_gif.gif)
