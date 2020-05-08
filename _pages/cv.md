@@ -127,7 +127,7 @@ Course Description: Neuromorphic Computing was originally referred to as the har
 Course Description: This course will cover the principles of modern deep learning architectures from a theoretical and practical perspective.  Course topics covered will include an introduction to machine learning and basic neural network architectures, and in-depth discussions on convolutional neural networks, recurrent neural networks based on units such as LSTMs and GRUs, and, if time permits, GANs.  Students will be required to implement programming assignments and projects that apply deep learning architectures to solve classification and regression problems.  Students will read and assess papers on current evolutions to these architectures. Graduate students will do additional work.
 
 ### Applied Dynamical Systems (MA563)
-This course will emphasize applied dynamical systems, nonlinear science, and chaos theory. The dynamical systems approach emphasizes the study of long-term evolution through geometrical and topological considerations. We will emphasize applications from mechanics, engineering, physics, biology, medicine and chemistry.
+Course Description: This course will emphasize applied dynamical systems, nonlinear science, and chaos theory. The dynamical systems approach emphasizes the study of long-term evolution through geometrical and topological considerations. We will emphasize applications from mechanics, engineering, physics, biology, medicine and chemistry.
 
 ## Publications
   <ul>{% for post in site.publications %}
