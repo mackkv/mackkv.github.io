@@ -21,8 +21,11 @@ redirect_from:
 * Fall 2016: Teaching Assistant, EE321 Systems and Signal Processing
   * Clarkson University
 
-* Spring 2017-Present: Research Assistant
+* Spring 2017- Fall 2019: Research Assistant
   * Clarkson University
+* Spring 2019-Present: Research Assistant
+  * Clarkson University
+  * Naval Undersea Research Program (NURP)
   
 ## Programming and Software Knowledge
 * Python, MATLAB, C/C++ 
