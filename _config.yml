@@ -133,12 +133,8 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
   - CHANGELOG
-  - config
+  - Capfile
   - Gemfile
   - Gruntfile.js
   - LICENSE
@@ -153,6 +149,7 @@ exclude:
   - node_modules
   - package.json
   - tmp
+  - vendor
 keep_files:
   - .git
   - .svn
