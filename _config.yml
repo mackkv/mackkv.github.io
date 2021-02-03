@@ -85,8 +85,13 @@ author:
   bio              : "PhD Student and graduate research assistant at Clarkson University"
   location         : "Potsdam, NY"
   employer         :
+<<<<<<< HEAD
   googlescholar    : "https://scholar.google.com/citations?user=wv5Qpj4AAAAJ&hl=en"
   email            : "mackkv@clarksonl.edu"
+=======
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,6 +104,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : kevin-mack-81527b126/
   orcid            :
@@ -135,13 +141,17 @@ exclude:
   - config
   - Gemfile
   - Gruntfile.js
-  - gulpfile.js
   - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
   - log
   - node_modules
   - package.json
-  - Rakefile
-  - README
   - tmp
 keep_files:
   - .git
