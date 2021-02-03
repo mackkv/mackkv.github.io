@@ -13,9 +13,9 @@ I'm a graduate student and research assisstant in the <a href="https://sites.goo
 
 Some quick examples of my interests and work
 ======
-This poster is from some of my most recent work with underwater LiDAR. The project uses a time-of-flight (ToF) camera, which has been modified, to perform optical sensing and target detection in the underwater environment. This technology has the potential to be highly useful for target detection, due to its inherent high resolution sensing and it's ability to determine absolute size of the object in question.
+Some of my most recent work with underwater LiDAR. The project uses a time-of-flight (ToF) camera, which has been modified, to perform optical sensing and target detection in the underwater environment. This technology has the potential to be highly useful for target detection, due to its inherent high resolution sensing and it's ability to determine absolute size of the object in question.
 
-I also make software for data collection and automation. Here is a GUI made with PyQt used for viewing data from a time-of-flight (ToF) camera. The app receives data over tcp connection, and displays in the GUI. This project can be found <a href="https://github.com/mackkv/CaptureGUI">here.</a>
+Here is a GUI made with PyQt used for viewing data from a time-of-flight (ToF) camera. The app receives data over tcp connection, and displays in the GUI. This project can be found <a href="https://github.com/mackkv/CaptureGUI">here.</a>
 ![gui](files/gui_gif.gif)
 
 Output from a semantic segmentation neural network. The colors represent segments of the image that belong to certain class of objects. The .gif shows the raw input data, the pixel classification, and the overlay for two slightly different settings. The network was trained on the <a href="https://www.cityscapes-dataset.com/">cityscapes dataset</a>, and was an implementation of known neural network structures that work well for this problem. The test data was recorded from my own dashcam. This work served as my project for my Neuromorphic Computing course.
