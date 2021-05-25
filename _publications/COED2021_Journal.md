@@ -1,7 +1,7 @@
 ---
 title: "Teaching Signal Processing Applications using an Android Echolocation App"
 collection: publications
-permalink: /publications/CoEd_Conference
+permalink: /publications/CoEd2021_Journal
 date: 2016-10-12
 venue: 'ASEE Computers in Education Journal'
 paperurl: 'https://coed.asee.org/2021/03/31/teaching-signal-processing-applications-using-an-android-echolocation-app/'
