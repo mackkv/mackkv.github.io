@@ -19,3 +19,5 @@ global optimum that can be approximated using an efficient iterative algorithm. 
 localization) and benchmark its effectiveness on both synthetic data and labgenerated experimental data. The proposed localization technique generally
 produces accurate target location, and the quality of localization can be further improved by an appropriate choice of weights in the objective function
 of optimization.
+
+[Publisher Link](http://stsip.org/)
