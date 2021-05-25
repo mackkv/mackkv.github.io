@@ -3,7 +3,7 @@ title: "Time-of-Flight (ToF) Cameras for Underwater Situational Awareness"
 collection: publications
 permalink: /publications/OCEANS19_Conference
 date: 2019-10-27
-venue: 'OCEANS 2019 MTS/IEEE SEATTLE'
+venue: 'OCEANS MTS/IEEE SEATTLE'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8962695'
 ---
 
