@@ -27,14 +27,21 @@ redirect_from:
   * Clarkson University
   * Naval Undersea Research Program (NURP)
   
-## Programming and Software Knowledge
+## Programming and Software Experience
 * Python, MATLAB, C/C++
   * GUI Design in Qt (C/C++), PyQt (python), and Matlab appDesigner
   * Parallelization on both CPU and GPU in python and Matlab (experience with CUDA based gpu's)
   * Python Packages: Numpy, SciPy, PyQt4&5, Tensorflow + Keras, sklearn, OpenCV (cv2), Pillow (PIL), pickle, Spyder, Jupyter Lab, matplotlib, Bokeh
 * Linux (various flavors, mostly debian based distros), Windows, Mac OSx
-* $\LaTeX$, Microsoft Word & Powerpoint & Excel, Android Studio, Arduino, Git (and GitLab), VirtualBox, Teamviewer, Visual Studio
-
+* $\LaTeX$, Microsoft Word & Powerpoint & Excel, Google Slides & Docs, Android Studio, Arduino, Git (and GitLab), VirtualBox, Teamviewer, Visual Studio
+## Interests
+* 2D & depth image processing
+* Computer vision
+* Optimization and machine learning
+* Real-time processing
+* Electro-Optics
+* Algorithm development
+* Automation
 ## Graduate Course Load (Clarkson University)
 ### Digital Signal Processing (EE401/501)  
 Course Description: An introduction to discrete-time signal processing. Topics include: A
