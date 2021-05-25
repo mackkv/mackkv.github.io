@@ -1,7 +1,7 @@
 ---
 title: "Restoration of time-of-flight (ToF) underwater images using TV regularization"
 collection: publications
-permalink: /publications/OCEANS19_Conference
+permalink: /publications/SPIE21_Conference
 date: 2021-4-12
 venue: 'SPIE, Ocean Sensing and Monitoring XIII'
 paperurl: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11752/117520N/Restoration-of-time-of-flight-ToF-underwater-images-using-TV/10.1117/12.2588047.full'
