@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kevin Mack / Personal Website"
+title                    : "Kevin V. Mack / Personal Website"
 title_separator          : "-"
-name                     : &name "Kevin Mack"
+name                     : &name "Kevin V. Mack"
 description              : &description "PhD Student and graduate research assistant at Clarkson University"
 url                      : https://mackkv.github.io # the base hostname & protocol for your site g.e. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kevin Mack"
+  name             : "Kevin V. Mack"
   avatar           : "IMG_0536_cropped.jpeg"
   bio              : "PhD Student and graduate research assistant at Clarkson University"
   location         : "Potsdam, NY, USA"
