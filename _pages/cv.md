@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Education
+* A.S. in Engineering Science, SUNY Broome 2014
 * B.S. in Electrical Engineering, Clarkson University, 2016
 * M.S. in Electrical Engineering, Clarkson University, 2018
-* Ph.D. in Electrical Engineering, Clarkson University, 2021 (Expected)
 
 ## Work Experience
 * Summer 2015: Research Assistant
@@ -28,9 +28,12 @@ redirect_from:
   * Naval Undersea Research Program (NURP)
   
 ## Programming and Software Knowledge
-* Python, MATLAB, C/C++ 
+* Python, MATLAB, C/C++
+  * GUI Design in Qt (C/C++), PyQt (python), and Matlab appDesigner
+  * Parallelization on both CPU and GPU in python and Matlab (experience with CUDA based gpu's)
+  * Python Packages: Numpy, SciPy, PyQt4&5, Tensorflow + Keras, sklearn, OpenCV (cv2), Pillow (PIL), pickle, Spyder, Jupyter Lab, matplotlib, Bokeh
 * Linux (various flavors, mostly debian based distros), Windows, Mac OSx
-* $\LaTeX$, Jupyter Notebook & Jupyter Lab, Spyder, Qt5 and PyQt5, keras, tensorflow, numpy, Microsoft Word and Excel, Android Studio, Arduino, Git (and GitLab), VirtualBox, Teamviewer
+* $\LaTeX$, Microsoft Word & Powerpoint & Excel, Android Studio, Arduino, Git (and GitLab), VirtualBox, Teamviewer, Visual Studio
 
 ## Graduate Course Load (Clarkson University)
 ### Digital Signal Processing (EE401/501)  
