@@ -15,10 +15,22 @@ This site is still a work in progress, and is being updated incrimentally to inc
 
 Some quick examples of my interests and work
 ======
-Some of my most recent work with underwater LiDAR. The project uses a time-of-flight (ToF) camera, which has been modified to perform optical sensing and object detection in the underwater environment. This technology has the potential to be highly useful for situational awareness, due to its inherent high framerate sensing and it's ability to determine absolute size of the object in question.
+Some of my most recent work with underwater LiDAR. The project uses a time-of-flight (ToF) camera, which has been modified to perform optical sensing and object detection in the underwater environment. This technology has the potential to be highly useful for situational awareness, due to its inherent high framerate sensing and it's ability to determine absolute size of the object in question. The general principle behind ToF technology is given by the figure below.
+![tof_basics](files/TOF_BASICS.png)
+
+The underwater environment poses a challenge for underwater optical sensing, due to the high amounts of signal scattering and absorption (see figure below).
+![tof_uw](files/TOF_UWScatter.png)
 
 Here is a GUI made with PyQt used for viewing data from a time-of-flight (ToF) camera. The app receives data over tcp connection, and displays in the GUI. This project can be found <a href="https://github.com/mackkv/CaptureGUI">here.</a>
 ![gui](files/gui_gif.gif)
+
+The setups for two specific exepriments are given in the figure below,
+![experiments](files/UWTOF_Experiments.png)
+
+and the results for close range experiments are given in the form of range images.
+![exp_results_close](files/UWTOF_CLOSE_TVL1.png)
+
+The above results are obtained from treating the data with a digital filter to remove the camera's inherent noise, then the scatter is treated with a primal dual algorithm that solves the $L_1$ total variation (TV) regularization image reconstruction problem. The details are published <a href="https://mackkv.github.io/publications/SPIE21_Conference">here.</a>
 
 Personal and Course Projects
 ======
