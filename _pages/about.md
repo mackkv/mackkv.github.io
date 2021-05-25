@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kevin Mack: PhD Student, Research Assistant"
+title: "Kevin Mack: PhD Student, Research Assistant, Electrical Engineering"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
