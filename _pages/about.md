@@ -12,9 +12,9 @@ I'm a graduate student and research assisstant in the <a href="https://sites.goo
 
 This site is still a work in progress, and is being updated incrimentally to include projects that I have worked on, and works that can be found publicly.
 
-Some quick examples of my interests and work
+Interests and Current Research
 ======
-Some of my most recent work with underwater LiDAR. The project uses a time-of-flight (ToF) camera, which has been modified to perform optical sensing and object detection in the underwater environment. This technology has the potential to be highly useful for situational awareness, due to its inherent high framerate sensing and it's ability to determine absolute size of the object in question. The general principle behind ToF technology is given by the figure below.
+My most recent work is in underwater LiDAR and remote sensing. The project uses a time-of-flight (ToF) camera, which has been modified to perform optical sensing and object detection in the underwater environment. This technology has the potential to be highly useful for situational awareness, due to its inherent high framerate sensing and it's ability to determine absolute size of the object in question. The general principle behind ToF technology is given by the figure below.
 ![tof_basics](files/TOF_BASICS.png)
 
 The underwater environment poses a challenge for underwater optical sensing, due to the high amounts of signal scattering and absorption (see figure below).
@@ -38,11 +38,12 @@ Personal and Course Projects
 ======
 # Signal and Image Processing
 ## Real-time VGG-16 based semantic segmentation network for self-driving vehicles 
-#### (an implementation of the work <a href="https://github.com/hayoung-kim/tf-semantic-segmentation-FCN-VGG16/blob/master/README.md">here.</a>)
+(an implementation of the work href="https://github.com/hayoung-kim/tf-semantic-segmentation-FCN-VGG16/blob/master/README.md">here.</a>)
 Output from a semantic segmentation neural network. The colors represent segments of the image that belong to certain class of objects. The .gif shows the raw input data, the pixel classification, and the overlay for two slightly different settings. The network was trained on the <a href="https://www.cityscapes-dataset.com/">cityscapes dataset</a>, and was an implementation of known neural network structures that work well for this problem. The test data was recorded from my own dashcam. This work served as my project for my Neuromorphic Computing course.
 ![dashcam](files/potsdam_dashcam.gif)
 
 ## Image Restoration and Underwater ToF Simulation
+In this example, the turbid underwater environment is modeled and used to simulate the impulse response of the imaging channel. The result is that image quality is degraded by forward and backward scattered signal. How to undo the effects of scattering and uncover the true image in such degraded visual environments is an active area of research in image processing. 
 ![wr3d_imgs](files/simulation_images_T6.png)
 # Automation
 ## HomeAssistant Project
