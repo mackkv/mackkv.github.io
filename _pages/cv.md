@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+#### Contact:
+email: mackkv@clarkson.edu
 
 ## Education
 * A.Sc. in Engineering Science, SUNY Broome, 2014
