@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/STSIP18_Journal
 date: 2017-10-18
 venue: 'Sampling Theory in Signal and Image Processing (STSIP): Special Issue on Harmonic Analysis and Inverse Problems'
-paperurl: 'http:/mackkv.github.io/files/stsip18-journal.pdf'
+paperurl: 'https:/mackkv.github.io/files/stsip18-journal.pdf'
 ---
 Abstract: Target localization is an important problem in signal processing
 and sensor networks, with many application areas including security (E911,
