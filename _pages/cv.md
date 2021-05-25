@@ -36,9 +36,10 @@ redirect_from:
 * $\LaTeX$, Microsoft Word & Powerpoint & Excel, Google Slides & Docs, Android Studio, Arduino, Git (and GitLab), VirtualBox, Teamviewer, Visual Studio, Sublime  
 
 ## Interests
-* 2D & depth image processing
+* 2D & 3D (depth) image processing, and more generally, digital signal processing
 * Computer vision
 * Optimization and machine learning
+* Data analysis
 * Real-time processing
 * Electro-Optics
 * Algorithm development
