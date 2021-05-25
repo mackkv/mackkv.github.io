@@ -3,7 +3,7 @@ title: "Statistical Methods for Fast LOS Detection for Ranging and Localization"
 collection: publications
 permalink: /publications/icETITE2020_Conference
 date: 2020-02-24
-venue: '2020 International Conference on Emerging Trends in Information Technology and Engineering (ic-ETITE)'
+venue: 'International Conference on Emerging Trends in Information Technology and Engineering (ic-ETITE)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9077865'
 ---
 
