@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student and research assisstant in the <a href="https://sites.google.com/clarkson.edu/cu-cosine-lab/home">CoSiNe Lab</a> at Clarkson University. My focus is on various topics in Machine Learning, Signal Processing, and Communications. I have also worked on engineering education projects, with a focus on using mobile apps as tools for learning. This site is still a work in progress, and is being updated incrimentally to include projects that I have worked on, and works that can be found publicly.
+I'm a graduate student and research assisstant in the <a href="https://sites.google.com/clarkson.edu/cu-cosine-lab/home">CoSiNe Lab</a> at Clarkson University. My focus is on various topics in Machine Learning, Signal Processing, and Communications. I have also worked on engineering education projects, with a focus on creating and using mobile apps as tools for learning and education outreach.  
+
+This site is still a work in progress, and is being updated incrimentally to include projects that I have worked on, and works that can be found publicly.
 
 
 Some quick examples of my interests and work
