@@ -10,21 +10,19 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* A.S. in Engineering Science, SUNY Broome 2014
-* B.S. in Electrical Engineering, Clarkson University, 2016
-* M.S. in Electrical Engineering, Clarkson University, 2018
+* A.Sc. in Engineering Science, SUNY Broome, 2014
+* B.Sc. in Electrical Engineering, Clarkson University, 2016
+* M.Sc. in Electrical Engineering, Clarkson University, 2018
 
 ## Work Experience
 * Summer 2015: Research Assistant
-  * Clarkson University
-
+  * Clarkson University  
 * Fall 2016: Teaching Assistant, EE321 Systems and Signal Processing
-  * Clarkson University
-
+  * Clarkson University  
 * Spring 2017- Fall 2019: Research Assistant
-  * Clarkson University
+  * Clarkson University  
 * Spring 2019-Present: Research Assistant
-  * Clarkson University
+  * Clarkson University  
   * Naval Undersea Research Program (NURP)
   
 ## Programming and Software Experience
