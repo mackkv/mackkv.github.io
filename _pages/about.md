@@ -21,7 +21,7 @@ Some of my most recent work with underwater LiDAR. The project uses a time-of-fl
 The underwater environment poses a challenge for underwater optical sensing, due to the high amounts of signal scattering and absorption (see figure below).
 ![tof_uw](files/TOF_UWScatter.png)
 
-The stock ToF camera needs to be modified to fit the underwater application. This is done by using the camera's pulsed CW signal to drive a 525nm 1 Watt laser diode. Some of the circuit board revisions, as well as photos of the field testing apparatus that was developed by undergraduate students at <a href="http://www.gcc.edu/">Grove City College</a>.
+The stock ToF camera needs to be modified to fit the underwater application. This is done by using the camera's pulsed CW signal to drive a 525nm 1 Watt laser diode. Some of the circuit board revisions, as well as photos of the field testing apparatus that was developed by undergraduate students at <a href="http://www.gcc.edu/">Grove City College</a> are given in the figure below.
 ![tof_hardware](files/UWTOF_HARDWARE.png)
 
 Here is a GUI made with PyQt used for viewing data from a time-of-flight (ToF) camera. The app receives data over tcp connection, and displays in the GUI. This project can be found <a href="https://github.com/mackkv/CaptureGUI">here.</a>
@@ -41,8 +41,8 @@ Personal and Course Projects
 Output from a semantic segmentation neural network. The colors represent segments of the image that belong to certain class of objects. The .gif shows the raw input data, the pixel classification, and the overlay for two slightly different settings. The network was trained on the <a href="https://www.cityscapes-dataset.com/">cityscapes dataset</a>, and was an implementation of known neural network structures that work well for this problem. The test data was recorded from my own dashcam. This work served as my project for my Neuromorphic Computing course.
 ![dashcam](files/potsdam_dashcam.gif)
 
-### Image Restoration and Underwater ToF Simulation
-![wr3d_imgs](files/.png)
+#### Image Restoration and Underwater ToF Simulation
+![wr3d_imgs](files/simulation_images_T6.png)
 ### Automation
 #### HomeAssistant Project
 ![HomeAssistant](files/Auto-Garden-GUI-cropped.png)
