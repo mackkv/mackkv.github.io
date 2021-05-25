@@ -14,6 +14,7 @@ redirect_from:
 * A.Sc. in Engineering Science, SUNY Broome, 2014
 * B.Sc. in Electrical Engineering, Clarkson University, 2016
   * Mathematics Minor 
+  * William A. Dart Award for Undergraduate Research
 * M.Sc. in Electrical Engineering, Clarkson University, 2018
 
 ## Work Experience
