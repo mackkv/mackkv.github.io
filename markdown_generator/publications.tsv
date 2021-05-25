@@ -1,3 +1,10 @@
 pub_date	title	venue	excerpt	citation	url_slug	paper_url
-2018-08-01	UNLOC: Optimal unfolding localization from noisy distance data	STSIP			paper-title-number-1	https://webspace.clarkson.edu/~mbanavar/wordpress/wp-content/uploads/2018/08/unloc-w-stsip_submitted.pdf
+
+2018-08-01	UNLOC: Optimal unfolding localization from noisy distance data	STSIP		paper-title-number-1	https://webspace.clarkson.edu/~mbanavar/wordpress/wp-content/uploads/2018/08/unloc-w-stsip_submitted.pdf
 2017-10-18	Teaching Ranging and Localization using Bluetooth on Android Devices	FIE 2017			paper-title-number-2	https://ieeexplore.ieee.org/document/8190715
+2016-10-12  An Android app for spatial acoustic analysis as a learning tool FIE 2016 paper-title-number-3 https://ieeexplore.ieee.org/abstract/document/7757538
+2018-10-30  Localization using wireless signals US Patent paper-title-number-4 https://patents.google.com/patent/US10117051B2/en
+2019-10-27  Time-of-Flight (ToF) Cameras for Underwater Situational Awareness OCEANS 2019 MTS/IEEE SEATTLE paper-title-5 https://ieeexplore.ieee.org/abstract/document/8962695
+2021-04-12  Restoration of time-of-flight (ToF) underwater images using TV Regularization SPIE 2021, Ocean Sensing and Monitoring XIII paper-title-6 https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11752/117520N/Restoration-of-time-of-flight-ToF-underwater-images-using-TV/10.1117/12.2588047.full
+2020-02-24  Statistical Methods for Fast LOS Detection for Ranging and Localization ic-ETITE 2020 paper-title-7 https://ieeexplore.ieee.org/abstract/document/9077865
+2021  Teaching Signal Processing Applications using an Android Echolocation App   ASEE CoEd 2021  Journal paper-title-8 https://coed.asee.org/2021/03/31/teaching-signal-processing-applications-using-an-android-echolocation-app/
