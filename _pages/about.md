@@ -18,7 +18,7 @@ My most recent work is in underwater LiDAR and remote sensing. The project uses 
 ![tof_basics](files/TOF_BASICS.png)
 
 The underwater environment poses a challenge for underwater optical sensing, due to the high amounts of signal scattering and absorption (see figure below).
-![tof_uw](files/TOF_UWScatter.png)
+![tof_uw](files/UWTOF_SCATTER.png)
 
 The stock ToF camera needs to be modified to fit the underwater application. This is done by using the camera's pulsed CW signal to drive a 525nm 1 Watt laser diode. Some of the circuit board revisions, as well as photos of the field testing apparatus that was developed by undergraduate students at <a href="http://www.gcc.edu/">Grove City College</a> are given in the figure below.
 ![tof_hardware](files/UWTOF_HARDWARE.png)
