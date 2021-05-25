@@ -22,5 +22,9 @@ Here is a GUI made with PyQt used for viewing data from a time-of-flight (ToF) c
 
 Personal and Course Projects
 ======
+### Signal and Image Processing
 Output from a semantic segmentation neural network. The colors represent segments of the image that belong to certain class of objects. The .gif shows the raw input data, the pixel classification, and the overlay for two slightly different settings. The network was trained on the <a href="https://www.cityscapes-dataset.com/">cityscapes dataset</a>, and was an implementation of known neural network structures that work well for this problem. The test data was recorded from my own dashcam. This work served as my project for my Neuromorphic Computing course.
 ![dashcam](files/potsdam_dashcam.gif)
+
+### Home Automation
+![HomeAssistant](files/Auto-Garden-GUI-cropped.png)
