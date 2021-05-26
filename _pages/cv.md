@@ -12,10 +12,14 @@ redirect_from:
 
 ## Education
 * A.Sc. in Engineering Science, SUNY Broome, 2014
+  * Frank G.Paul Medal for Excellence in Science and Mathematics
+  * Student athelete (Men's Soccer)
 * B.Sc. in Electrical Engineering, Clarkson University, 2016
   * Mathematics Minor 
+  * Vice President, IEEE Student Chapter
   * William A. Dart Award for Undergraduate Research
 * M.Sc. in Electrical Engineering, Clarkson University, 2018
+  * Eta Kappa Nu Honor Society
 
 ## Work Experience
 * Summer 2015: Research Assistant
