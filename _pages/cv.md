@@ -12,7 +12,7 @@ redirect_from:
 
 ## Education
 * A.Sc. in Engineering Science, SUNY Broome, 2014
-  * Frank G.Paul Medal for Excellence in Science and Mathematics
+  * Frank G. Paul Medal for Excellence in Science and Mathematics
   * Student athelete (Men's Soccer)
 * B.Sc. in Electrical Engineering, Clarkson University, 2016
   * Mathematics Minor 
