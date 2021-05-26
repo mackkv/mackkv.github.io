@@ -37,8 +37,7 @@ The above results are obtained from treating the data with a digital filter to r
 Personal and Course Projects
 ======
 # Signal and Image Processing
-## Real-time VGG-16 based semantic segmentation network for self-driving vehicles 
-(an implementation of the work <a href="https://github.com/hayoung-kim/tf-semantic-segmentation-FCN-VGG16/blob/master/README.md">here.</a>)
+## Real-time VGG-16 based semantic segmentation network for self-driving vehicles (an implementation of the work <a href="https://github.com/hayoung-kim/tf-semantic-segmentation-FCN-VGG16/blob/master/README.md">here.</a>)
 Output from a semantic segmentation neural network. The colors represent segments of the image that belong to certain class of objects. The .gif shows the raw input data, the pixel classification, and the overlay for two slightly different settings. The network was trained on the <a href="https://www.cityscapes-dataset.com/">cityscapes dataset</a>, and was an implementation of known neural network structures that work well for this problem. The test data was recorded from my own dashcam. This work served as my project for my Neuromorphic Computing course.
 ![dashcam](files/potsdam_dashcam.gif)
 
