@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 #### Contact: email - mackkv@clarkson.edu
-#### <a href="files/Resume.pdf">Resume (pdf)</a>
+#### <a href="https://github.com/mackkv/mackkv.github.io/blob/master/files/Resume.pdf">Resume (pdf)</a>
 ## Education
 * A.Sc. in Engineering Science, SUNY Broome, 2014
   * Frank G. Paul Medal for Excellence in Science and Mathematics
