@@ -50,7 +50,9 @@ redirect_from:
 * Real-time processing
 * Electro-Optics
 * Algorithm development
+* Parallel Computing
 * Automation  
+* Software Development
 
 ## Teamwork and Mentoring
 * Member of two research collectives at Clarkson University
