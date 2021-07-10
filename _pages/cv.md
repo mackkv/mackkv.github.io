@@ -63,8 +63,8 @@ redirect_from:
 * Teaching adult classes on concepts in modern computing and localization technology through SUNY Potsdam's <a href="https://www.soarnorthcountry.com/"> SOAR </a> program 
 
 ## Workshops and Training
-* <a href="https://www.h4d.us/"< Hacking for Defense (H4D) </a> at Standford University
-* <a href="https://www.h4d.us/"< Hacking for Defense (H4D) </a> at University of Rhode Island
+* <a href="https://www.h4d.us/"> Hacking for Defense (H4D) </a> at Standford University
+* <a href="https://www.h4d.us/"> Hacking for Defense (H4D) </a> at University of Rhode Island
 
 ## Graduate Course Load (Clarkson University)
 ### Digital Signal Processing (EE401/501)  
