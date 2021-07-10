@@ -21,7 +21,7 @@ redirect_from:
 * M.Sc. in Electrical Engineering, Clarkson University, 2018
   * Eta Kappa Nu Honor Society
 * Ph.D in Electrical Engineering, Clarkson University, 2018 - Present
-  * Naval Undersea Research Program (NURP) Participant 
+  * <a href="https://www.onr.navy.mil/en/Science-Technology/Departments/Code-33/All-Programs/333-weapons-and-payloads/navy-undersea-research-program"> Naval Undersea Research Program (NURP) </a> Participant 
 ## Work Experience
 * Summer 2015: Research Assistant
   * Clarkson University  
