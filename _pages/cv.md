@@ -56,7 +56,8 @@ redirect_from:
   * <a href="https://sites.google.com/clarkson.edu/cu-cosine-lab/home">Communications Signal Processing and Networking (CoSiNe) Lab</a>, Clarkson University
   * <a href="https://webspace.clarkson.edu/~ebollt/Website-C3S2/index.html"> Clarkson Center for Complex Systems Science (C3S2) </a>, Clarkson University
 * Mentoring and teaching high school students through the <a href="https://www.potsdam.edu/studentlife/diversity/entryprograms/ncstep">SUNY NCSTEP</a> program
-* Teaching adult classes on concepts in modern computing and localization technology through SUNY Potsdam's <a href="https://www.soarnorthcountry.com/"> SOAR </a> program  
+* Teaching adult classes on concepts in modern computing and localization technology through SUNY Potsdam's <a href="https://www.soarnorthcountry.com/"> SOAR </a> program 
+  
 ## Graduate Course Load (Clarkson University)
 ### Digital Signal Processing (EE401/501)  
 Course Description: An introduction to discrete-time signal processing. Topics include: A
