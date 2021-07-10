@@ -22,6 +22,7 @@ redirect_from:
   * Eta Kappa Nu Honor Society
 * Ph.D in Electrical Engineering, Clarkson University, 2018 - Present
   * <a href="https://www.onr.navy.mil/en/Science-Technology/Departments/Code-33/All-Programs/333-weapons-and-payloads/navy-undersea-research-program"> Naval Undersea Research Program (NURP) </a> Participant 
+
 ## Work Experience
 * Summer 2015: Research Assistant
   * Clarkson University  
@@ -64,6 +65,7 @@ redirect_from:
 ## Workshops and Training
 * Hacking for Defense (H4D) @ Standford University
 * Hacking for Defense (H4D) @ University of Rhode Island
+
 ## Graduate Course Load (Clarkson University)
 ### Digital Signal Processing (EE401/501)  
 Course Description: An introduction to discrete-time signal processing. Topics include: A
