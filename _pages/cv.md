@@ -20,7 +20,8 @@ redirect_from:
   * William A. Dart Award for Undergraduate Research
 * M.Sc. in Electrical Engineering, Clarkson University, 2018
   * Eta Kappa Nu Honor Society
-
+* Ph.D in Electrical Engineering, Clarkson University, 2018 - Present
+  * Naval Undersea Research Program (NURP) Participant 
 ## Work Experience
 * Summer 2015: Research Assistant
   * Clarkson University  
@@ -31,7 +32,7 @@ redirect_from:
 * Spring 2019-Present: Research Assistant
   * Clarkson University  
   * PhD Candidate in Electrical Engineering
-  * Naval Undersea Research Program (NURP)
+  * <a href="https://www.onr.navy.mil/en/Science-Technology/Departments/Code-33/All-Programs/333-weapons-and-payloads/navy-undersea-research-program"> Naval Undersea Research Program (NURP) </a>
   
 ## Programming and Software Experience
 * Python, MATLAB, C/C++
@@ -57,7 +58,10 @@ redirect_from:
   * <a href="https://webspace.clarkson.edu/~ebollt/Website-C3S2/index.html"> Clarkson Center for Complex Systems Science (C3S2) </a>, Clarkson University
 * Mentoring and teaching high school students through the <a href="https://www.potsdam.edu/studentlife/diversity/entryprograms/ncstep">SUNY NCSTEP</a> program
 * Teaching adult classes on concepts in modern computing and localization technology through SUNY Potsdam's <a href="https://www.soarnorthcountry.com/"> SOAR </a> program 
-  
+
+## Workshops and Training
+* Hacking for Defense (H4D) @ Standford University
+* Hacking for Defense (H4D) @ University of Rhode Island
 ## Graduate Course Load (Clarkson University)
 ### Digital Signal Processing (EE401/501)  
 Course Description: An introduction to discrete-time signal processing. Topics include: A
